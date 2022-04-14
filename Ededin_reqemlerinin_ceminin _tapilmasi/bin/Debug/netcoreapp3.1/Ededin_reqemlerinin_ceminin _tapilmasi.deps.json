@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ededin_reqemlerinin_ceminin _tapilmasi/1.0.0": {
+        "runtime": {
+          "Ededin_reqemlerinin_ceminin _tapilmasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ededin_reqemlerinin_ceminin _tapilmasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

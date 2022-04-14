@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\bin\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Ededin reqemlerinin ceminin tapilmasi\Ededin_reqemlerinin_ceminin _tapilmasi\obj\Debug\netcoreapp3.1\Ededin_reqemlerinin_ceminin _tapilmasi.genruntimeconfig.cache
